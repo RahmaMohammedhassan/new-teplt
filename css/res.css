@@ -1,0 +1,303 @@
+body {
+		color: #555555;}
+.home{
+	background-image: url(img/slider/slider-01.jpg);
+	position: relative;
+	
+}
+.contain {
+	height: 100%;
+   background-color: rgba(0,0,0,0.8);
+	}
+.fok {
+	background-color: #333;
+	 
+}
+
+
+.navbar-brand{
+	color: #ff305b;
+	font-size: 24px;
+	font-weight: 800;
+}
+.cont{
+	background-color: black;
+}
+
+.collapse .nav  li a{
+	color: #ffff;
+}
+.collapse .nav  li.active a{
+color: #ff305b;
+}
+.collapse .nav  li:hover a{
+	color: #ff305b;
+	background-color: #333;
+}
+.alex{
+	position: absolute;
+	top:40%;
+	color:#ffffff;
+}
+.alex p{
+	font-weight: 600;
+	font-family: 'Source Sans Pro', sans-serif;
+	
+}
+.alex h1{
+	font-weight:bolder;
+	font-family: 'Source Sans Pro', sans-serif;
+	color: #ff305b;
+}
+.alex h4{
+	font-size: 26px;
+    text-transform: capitalize;
+    color: #fff;
+
+}
+.dolor{
+	margin-top: 40px;
+	padding: 20px;
+	
+}
+.dolor .imge{
+	box-shadow: -5px 5px;
+	padding-left:20px; 
+	padding-bottom:20px; 
+	position: relative;		
+    margin-bottom: 40px
+		;
+	width: 80%;
+	
+}
+
+.dolor .imge .hidenimg{
+	width: 95%;
+	visibility: hidden;
+    left: 20px;
+	top:120%;
+	transition: all 1s ease-in-out;
+	position: absolute;
+	background-color: rgba(0,0,0,0.6);
+}
+.dolor .imge:hover .hidenimg  {
+	visibility: visible;
+	bottom: 18px;	
+    top:0px;
+}
+.dolor .hello h1{
+	margin-top: 20px;
+font-size: 34px;
+font-weight: 600;
+line-height: 22px;
+margin-bottom: 25px;
+padding-left: 13px;
+}
+.btn-lg, .btn-group-lg>.btn {
+    padding: 5px 30px;
+	font-size: 18px;}
+.Lorem{
+	padding: 40px;
+	background-color: #eee;
+}
+.cent{
+	position: relative;
+}
+.Lorem  h3:after{
+	 content: "";
+	width: 100px;
+	height: 1px;
+	left: 45%;
+	background-color: crimson;
+	position: absolute;
+	top:90%;
+	
+}
+.Lorem  h4:after{
+	 content: "";
+	width: 190px;
+	height: 1px;
+	left: 43%;
+	background-color: crimson;
+	position: absolute;
+	top:97.89%;
+	
+}
+.Lorem  h5:after{
+	 content: "";
+	width: 100px;
+	height: 1px;
+	left: 45%;
+	background-color: crimson;
+	position: absolute;
+	top:107%;
+	
+}
+.Lorem .quis{
+	margin-bottom: 30px;
+	padding: 10px;
+}
+.Lorem .quis:hover{
+	background-color: #888;
+}
+.feed_back{
+	padding:40px; 
+}
+.feed_back h1{
+	margin-bottom: 3px;
+	font-weight: 600;
+}
+.feed_back h3:after{
+	 content: "";
+	width: 100px;
+	height: 1px;
+	left: 45%;
+	background-color: crimson;
+	position: absolute;
+	top:90%;
+	
+}
+.feed_back h4:after{
+	 content: "";
+	width: 190px;
+	height: 1px;
+	left: 43%;
+	background-color: crimson;
+	position: absolute;
+	top:97.89%;
+	
+}
+.feed_back  h5:after{
+	 content: "";
+	width: 100px;
+	height: 1px;
+	left: 45%;
+	background-color: crimson;
+	position: absolute;
+	top:107%;
+	
+}
+.Client{
+	padding: 40px;}
+.Client h3:after{
+	 content: "";
+	width: 100px;
+	height: 1px;
+	left: 45%;
+	background-color: crimson;
+	position: absolute;
+	top:90%;
+	
+}
+.Client h4:after{
+	 content: "";
+	width: 190px;
+	height: 1px;
+	left: 43%;
+	background-color: crimson;
+	position: absolute;
+	top:97.89%;
+	
+}
+.Client  h6:after{
+	 content: "";
+	width: 100px;
+	height: 1px;
+	left: 45%;
+	background-color: crimson;
+	position: absolute;
+	top:107%;
+	
+}
+.Client h1{
+	margin-bottom: 8px;
+	font-weight: 600;
+}
+
+.Client .card{
+	padding-bottom: 30px;
+		background: #ffffff;
+}
+.Client .card .card-body{
+	text-align: left;
+	padding-left: 10px;
+    font-family: 'Roboto', sans-serif;
+    
+}
+.Client .card .card-body a{
+	text-decoration: none;
+}
+.Client .card .card-body .card-title:hover,
+.Client .card .card-body a:hover
+{
+
+	color: crimson;
+	
+}
+.Client h5:after {
+    content: "";
+    width: 0px;
+    height: 1px;
+    
+   
+}
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+    
+    font-weight: 900;
+	line-height: 1.3;
+	transition: all .2s ease-in-out;
+}
+.Contact_Us {
+	padding: 40px;
+}
+.Contact_Us .cent{
+	margin-bottom: 40px;
+}
+.Contact_Us h3:after{
+	 content: "";
+	width: 100px;
+	height: 1px;
+	left: 45%;
+	background-color: crimson;
+	position: absolute;
+	top:90%;
+	
+}
+.Contact_Us h4:after{
+	 content: "";
+	width: 190px;
+	height: 1px;
+	left: 43%;
+	background-color: crimson;
+	position: absolute;
+	top:97.89%;
+	
+}
+.Contact_Us .cent  h6:after{
+	 content: "";
+	width: 100px;
+	height: 1px;
+	left: 45%;
+	background-color: crimson;
+	position: absolute;
+	top:107%;
+	
+}
+.Contact_Us .cent h1{
+font-size: 40px;
+font-weight: 800;
+line-height: 30px;
+margin-bottom: 40px;
+padding-bottom: 30px;
+}
+.form-control{
+	 border: 2px solid #ccc;
+    border-radius: 5px;
+	margin-bottom: 8px;
+}
+.btn {
+	display: block;
+}
+.btn-lg{
+	   border-radius: 2px;
+}
